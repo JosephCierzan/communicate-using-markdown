@@ -11,3 +11,7 @@ if (condition) {
   //  block of code to be executed if the condition is false
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
